@@ -12,4 +12,7 @@ package examples;
  * O(n) - Big Oh of n.
  */
 public class BigO_n {
+    public static void printArray(int[] array) {
+
+    }
 }
