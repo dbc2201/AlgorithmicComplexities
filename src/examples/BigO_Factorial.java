@@ -16,6 +16,8 @@ public class BigO_Factorial {
     }
 
     public static void showComplexity(int n) {
-
+        for (int i = 0; i < factorial(4); i++) {
+            System.out.print("i = " + i + " ");
+        }
     }
 }
