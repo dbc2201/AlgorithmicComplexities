@@ -8,4 +8,7 @@
 package examples;
 
 public class BigO_1 {
+    public static void checkEvenOrOdd(int n) {
+
+    }
 }
