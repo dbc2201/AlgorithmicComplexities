@@ -8,4 +8,7 @@
 package examples;
 
 public class BigO_logn {
+    public static void printValues(int n) {
+        
+    }
 }
