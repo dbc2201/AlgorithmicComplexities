@@ -12,6 +12,11 @@ package examples;
  * O(n) - Big Oh of n.
  */
 public class BigO_n {
+    /**
+     * This method "traverses" the input {@param array} and then prints all the values.
+     *
+     * @param array the input array to print
+     */
     public static void printArray(int[] array) {
 
     }
