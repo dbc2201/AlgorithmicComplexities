@@ -9,6 +9,8 @@ package examples;
 
 public class BigO_logn {
     public static void printValues(int n) {
-        
+        for (int i = 0; i < n; i = i * 2) {
+            System.out.println("i = " + i);
+        }
     }
 }
