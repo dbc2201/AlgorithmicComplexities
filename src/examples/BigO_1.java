@@ -9,6 +9,6 @@ package examples;
 
 public class BigO_1 {
     public static void checkEvenOrOdd(int n) {
-
+        System.out.println((n % 2 == 0) ? "Even" : "Odd");
     }
 }
