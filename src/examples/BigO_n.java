@@ -18,6 +18,7 @@ public class BigO_n {
      * @param array the input array to print
      */
     public static void printArray(int[] array) {
-
+        for (int i = 0; i < array.length; i++) {
+        }
     }
 }
