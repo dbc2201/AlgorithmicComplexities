@@ -14,4 +14,8 @@ public class BigO_Factorial {
         }
         return n * factorial(n - 1);
     }
+
+    public static void showComplexity(int n) {
+
+    }
 }
